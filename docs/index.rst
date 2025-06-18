@@ -5,7 +5,7 @@ How to Update Garmin GPS Navigation? A Complete Guide
    :maxdepth: 2
    :caption: Contents:
 
-For Update: https://tek.chat/
+For Update: https://garminupdate.online/
 ---------------------
 
 
