@@ -1,4 +1,4 @@
-project = 'Garmin GPS Navigation Update'
+project = 'Garmin GPS Navigation Update' 
 author = 'Your Name'
 release = '1.0'
 
